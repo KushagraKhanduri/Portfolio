@@ -40,10 +40,10 @@ export default function AboutSection() {
               transition={{ duration: 0.8, delay: 0.4 }}
               viewport={{ once: true }}
               className="text-white/60 text-lg mb-8 leading-relaxed"
-            >
-              I'm a designer, developer & Engineer passionate about creating intuitive, user-centric digital 
-              experiences that merge form and function. With a minimalist approach inspired by the 
-              principles of clarity and purpose, I build digital products that are solve real world problems.
+            >I am a designer, developer, and engineer passionate about creating intuitive, 
+              user-centric digital experiences that merge form and function. 
+              With a minimalist approach inspired by clarity and purpose, 
+              I build digital products that solve real-world problems.
             </motion.p>
             
             <motion.div
